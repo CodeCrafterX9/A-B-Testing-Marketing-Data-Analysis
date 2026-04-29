@@ -7,8 +7,8 @@ Identify which campaign performs better in terms of user engagement and conversi
 
 **Approach**:
 
-Cleaned and validated data (missing values, duplicates)
-Created key metrics like CTR, CPC, CAC, Conversion Rate
-Analyzed user funnel (Impressions → Clicks → Purchase)
-Compared both campaigns using visualizations
+1. Cleaned and validated data (missing values, duplicates)
+2. Created key metrics like CTR, CPC, CAC, Conversion Rate
+3. Analyzed user funnel (Impressions → Clicks → Purchase)
+4. Compared both campaigns using visualizations
 
